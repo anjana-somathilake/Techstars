@@ -71,9 +71,25 @@
   - [ ] React Native · A framework for building native apps using React https://facebook.github.io/react-native/
   - [ ] in-memory data structure store https://redis.io
   - [ ] Open Source, Distributed, RESTful Search Engine https://github.com/elastic/elasticsearch
-  - [ ] 
+  - [ ] Free code libs https://www.npmjs.com/
     
-
-  
   
 ## Deployment  :beers:
+
+  - [ ] NGINX | High Performance Load Balancer, Web Server https://www.nginx.com
+  - [ ] Mailgun: Transactional Email API Service For Developers https://www.mailgun.com
+  
+* ### Hosting
+  - [ ] Goole Fierbase https://firebase.google.com  
+  - [ ] MongoDB Hosting: Database-as-a-Service by mLab https://mlab.com/plans/pricing/#plan-type=sandbox
+  - [ ] Kubernetes: Production-Grade Container Orchestration https://kubernetes.io
+  - [ ] OpenShift Container Platform by Red Hat, Built on Kubernetes https://www.openshift.com/trial/
+ 
+* ### Analytics
+  - [ ] Google Analytics
+  - [ ] Mixpanel: Product and User Behavioral Analytics for Mobile https://mixpanel.com
+  
+  
+  
+  
+  
