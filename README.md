@@ -58,5 +58,22 @@
   - [ ] https://creately.com 🇱🇰
   - [ ] Google Docs
   
+* ### Rapid Development
+  - [ ] Meteor: Build Apps with JavaScript https://www.meteor.com/
+  - [ ] Ionic - Cross-Platform Mobile App Development https://ionicframework.com/ 
+  - [ ] Electron | Build cross platform desktop apps with JavaScript https://electronjs.org
+  - [ ] SLAppForge: Cloud Computing Tool for Serverless Applications https://www.slappforge.com 🇱🇰
+  - [ ] MongoDB: The most popular database for modern apps https://www.mongodb.com
+  - [ ] https://couchdb.apache.org/
+    - [ ] PouchDB, the JavaScript Database that Syncs!  https://pouchdb.com 
+  - [ ] React – A JavaScript library for building user interfaces https://reactjs.org
+  - [ ] AngularJS — Superheroic JavaScript MVW Framework https://angularjs.org
+  - [ ] React Native · A framework for building native apps using React https://facebook.github.io/react-native/
+  - [ ] in-memory data structure store https://redis.io
+  - [ ] Open Source, Distributed, RESTful Search Engine https://github.com/elastic/elasticsearch
+  - [ ] 
+    
+
+  
   
 ## Deployment  :beers:
