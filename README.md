@@ -1,9 +1,20 @@
 # Techstars
 
 ## Concept
-* ### Idea
+* ### Idea  :bulb:
   - [ ] MindMap
-  - [ ] Wireframe
+    - [ ] https://www.xmind.net/
+    - [ ] https://www.xmind.net/m/DKCJLD/
+    - [ ]  :key: export to excel 
+  - [ ] Wireframe and Prototype
+    - [ ] https://balsamiq.com/
+    - [ ] Pencil Project
+    - [ ] Figma
+    - [ ] Adobe XD
+    - [ ] OmniGraffle
+    - [ ] Marvel
+    - [ ] Axure RP
+    - [ ] Origami Studio
   
 * ### Business Model :rocket:
 
@@ -19,8 +30,6 @@
   - [ ] Value Proposition Canvas: A Tool To Understand What Customers Really Want
    [![Value Prop](https://img.youtube.com/vi/ReM1uqmVfP0/maxresdefault.jpg)](https://youtu.be/ReM1uqmVfP0)
     
-    
-* ### Prototype
 
 * ### UX and Design Inspiration 
 
