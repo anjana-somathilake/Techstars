@@ -31,8 +31,32 @@
    [![Value Prop](https://img.youtube.com/vi/ReM1uqmVfP0/maxresdefault.jpg)](https://youtu.be/ReM1uqmVfP0)
     
 
-* ### UX and Design Inspiration 
+* ### UX and Design Inspiration  :high_heel:
+  - [ ] https://dribbble.com/
+  - [ ] https://www.freepik.com
+  - [ ] https://www.shutterstock.com/
+  - [ ] https://www.pinterest.com/
 
-## Project and Time Management
-## Engineering
-## Deployment 
+## Project and Time Management  :watch:
+
+* ### Task Tracking
+  - [ ] https://trello.com/en
+  - [ ] Jira
+  - [ ] Githup Issues
+  
+*  ### Countdown Timers
+
+    - [ ] https://www.timeanddate.com/countdown/create
+    
+## Engineering  :fire:
+
+* ### Version Control
+  - [ ] https://github.com/
+  - [ ] https://bitbucket.org
+  
+* ### Diagramming Tools
+  - [ ] https://creately.com 🇱🇰
+  - [ ] Google Docs
+  
+  
+## Deployment  :beers:
