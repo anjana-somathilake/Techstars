@@ -1,5 +1,6 @@
+# Techstars Global Online Startup Weekend Unite to Fight Covid-19 Sri Lanka
+### Friday, April 24 - 26, 2020
 
-# Techstars
 
 ## Concept
 * ### Idea  :bulb:
@@ -34,6 +35,9 @@
 
     - [ ] https://www.timeanddate.com/countdown/create
     
+## Hackathon tools :knife:
+https://nyhackathons.com/tools/
+    
 ## Engineering  :fire:
 
 * ### Version Control
@@ -43,6 +47,8 @@
 * ### Diagramming Tools
   - [ ] https://creately.com 🇱🇰
   - [ ] Google Docs
+  - [ ] https://whimsical.com/
+  - [ ] https://www.mural.co/
   
 * ### Rapid Development
   - [ ] Meteor: Build Apps with JavaScript https://www.meteor.com/
