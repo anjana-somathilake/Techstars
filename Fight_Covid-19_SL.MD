@@ -30,6 +30,7 @@
   - [ ] https://trello.com/en
   - [ ] Jira
   - [ ] Githup Issues
+  - [ ] https://clickup.com/
   
 *  ### Countdown Timers
 
