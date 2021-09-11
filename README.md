@@ -1,5 +1,4 @@
-# Techstars Startup Weekend Zahira College, Colombo
-### Saturday, September 11, 2021
+# Techstars Startup Weekend 
 
 
 ## Concept
